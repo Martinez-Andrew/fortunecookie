@@ -1,4 +1,4 @@
-let who = ['Your dog', 'My grandma', 'Your turtle', 'Your bird', 'You', 'Your mother', 'Your father', 'Your cat', 'Your fish'];
+let who = ['Your dog', 'Your grandma', 'Your turtle', 'Your bird', 'You', 'Your mother', 'Your father', 'Your cat', 'Your fish'];
 let fortune = ['be a millionaire', 'find true love', 'go to Japan', 'have a boy', 'have a girl', 'have a great day', 'travel the world', 'get their dream job', 'eat an ice cream', 'read a fantastic book'];
 let when = ['today', 'tomorrow', 'next week', 'next month', 'next year', 'in 10 years'];
 
